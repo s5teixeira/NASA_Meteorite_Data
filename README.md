@@ -14,7 +14,9 @@ Program will build an SQLite database with seven tables. Each table will corresp
 continental region on Earth: Africa/MiddleEast, Europe, Upper Asia, Lower Asia, Australia, North America, SouthAmerica.
 
 MacOS 
+
 Python version 3.10.7
+
 PyCharm Version - Community Edition
 
 Run 'python main.py'
